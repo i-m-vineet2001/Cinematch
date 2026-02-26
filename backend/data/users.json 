@@ -67,6 +67,38 @@
                     "Freedom Writers"
                 ],
                 "timestamp": "2026-02-26T11:45:15.794332"
+            },
+            {
+                "searched_movie": "Deadpool",
+                "recommendations": [
+                    "The Incredible Hulk",
+                    "Ant-Man",
+                    "X-Men",
+                    "Iron Man 2",
+                    "Thor: The Dark World",
+                    "X2",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Amazing Spider-Man 2",
+                    "X-Men: The Last Stand"
+                ],
+                "timestamp": "2026-02-26T15:02:12.896086"
+            },
+            {
+                "searched_movie": "Deadpool",
+                "recommendations": [
+                    "The Incredible Hulk",
+                    "Ant-Man",
+                    "X-Men",
+                    "Iron Man 2",
+                    "Thor: The Dark World",
+                    "X2",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Amazing Spider-Man 2",
+                    "X-Men: The Last Stand"
+                ],
+                "timestamp": "2026-02-26T15:02:12.922787"
             }
         ]
     },
