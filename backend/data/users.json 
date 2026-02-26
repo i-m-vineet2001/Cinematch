@@ -1,0 +1,354 @@
+{
+    "Vineet": {
+        "password": "efc6c8c8de1929382723cc31814a1880119e6f8b32b52b910ec0b84e7920d6b1",
+        "created_at": "2026-02-26T11:42:40.420345",
+        "favourites": [],
+        "recommendation_history": [
+            {
+                "searched_movie": "Forrest Gump",
+                "recommendations": [
+                    "Me You and Five Bucks",
+                    "Silver Linings Playbook",
+                    "The Scarlet Letter",
+                    "The Green Mile",
+                    "A Home at the End of the World",
+                    "A Christmas Carol",
+                    "Contact",
+                    "The Bridge of San Luis Rey",
+                    "Larry Crowne",
+                    "Last Orders"
+                ],
+                "timestamp": "2026-02-26T11:45:08.930592"
+            },
+            {
+                "searched_movie": "Forrest Gump",
+                "recommendations": [
+                    "Me You and Five Bucks",
+                    "Silver Linings Playbook",
+                    "The Scarlet Letter",
+                    "The Green Mile",
+                    "A Home at the End of the World",
+                    "A Christmas Carol",
+                    "Contact",
+                    "The Bridge of San Luis Rey",
+                    "Larry Crowne",
+                    "Last Orders"
+                ],
+                "timestamp": "2026-02-26T11:45:08.947327"
+            },
+            {
+                "searched_movie": "The Green Mile",
+                "recommendations": [
+                    "Forrest Gump",
+                    "To Kill a Mockingbird",
+                    "Freedom Writers",
+                    "Jack Reacher",
+                    "A Walk Among the Tombstones",
+                    "The General's Daughter",
+                    "It's a Wonderful Life",
+                    "Extremely Loud & Incredibly Close",
+                    "Last Orders",
+                    "A Dangerous Method"
+                ],
+                "timestamp": "2026-02-26T11:45:12.950410"
+            },
+            {
+                "searched_movie": "Jack Reacher",
+                "recommendations": [
+                    "The Girl with the Dragon Tattoo",
+                    "Gone Girl",
+                    "Legend",
+                    "A Walk Among the Tombstones",
+                    "The Dead Zone",
+                    "Buffalo Soldiers",
+                    "The Bad Lieutenant: Port of Call - New Orleans",
+                    "The Green Mile",
+                    "Captive",
+                    "Freedom Writers"
+                ],
+                "timestamp": "2026-02-26T11:45:15.794332"
+            }
+        ]
+    },
+    "vineet": {
+        "password": "efc6c8c8de1929382723cc31814a1880119e6f8b32b52b910ec0b84e7920d6b1",
+        "created_at": "2026-02-26T11:55:48.223901",
+        "favourites": [
+            "The Twilight Saga: Eclipse"
+        ],
+        "recommendation_history": [
+            {
+                "searched_movie": "Guardians of the Galaxy",
+                "recommendations": [
+                    "Avatar",
+                    "Star Trek Into Darkness",
+                    "Star Trek Beyond",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Chronicles of Riddick",
+                    "The Helix... Loaded",
+                    "Captain America: The Winter Soldier",
+                    "X-Men: First Class",
+                    "Star Trek"
+                ],
+                "timestamp": "2026-02-26T11:55:56.144635"
+            },
+            {
+                "searched_movie": "Guardians of the Galaxy",
+                "recommendations": [
+                    "Avatar",
+                    "Star Trek Into Darkness",
+                    "Star Trek Beyond",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Chronicles of Riddick",
+                    "The Helix... Loaded",
+                    "Captain America: The Winter Soldier",
+                    "X-Men: First Class",
+                    "Star Trek"
+                ],
+                "timestamp": "2026-02-26T11:55:56.163961"
+            },
+            {
+                "searched_movie": "Guardians of the Galaxy",
+                "recommendations": [
+                    "Avatar",
+                    "Star Trek Into Darkness",
+                    "Star Trek Beyond",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Chronicles of Riddick",
+                    "The Helix... Loaded",
+                    "Captain America: The Winter Soldier",
+                    "X-Men: First Class",
+                    "Star Trek"
+                ],
+                "timestamp": "2026-02-26T11:56:00.892072"
+            },
+            {
+                "searched_movie": "Guardians of the Galaxy",
+                "recommendations": [
+                    "Avatar",
+                    "Star Trek Into Darkness",
+                    "Star Trek Beyond",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Chronicles of Riddick",
+                    "The Helix... Loaded",
+                    "Captain America: The Winter Soldier",
+                    "X-Men: First Class",
+                    "Star Trek"
+                ],
+                "timestamp": "2026-02-26T11:56:00.909192"
+            },
+            {
+                "searched_movie": "The Twilight Saga: Eclipse",
+                "recommendations": [
+                    "The Twilight Saga: New Moon",
+                    "Twilight",
+                    "The Twilight Saga: Breaking Dawn - Part 2",
+                    "Snow White and the Huntsman",
+                    "The Adventures of Sharkboy and Lavagirl",
+                    "The Mortal Instruments: City of Bones",
+                    "Proof of Life",
+                    "Me You and Five Bucks",
+                    "Quo Vadis",
+                    "The Love Letter"
+                ],
+                "timestamp": "2026-02-26T11:56:31.953152"
+            },
+            {
+                "searched_movie": "The Twilight Saga: Eclipse",
+                "recommendations": [
+                    "The Twilight Saga: New Moon",
+                    "Twilight",
+                    "The Twilight Saga: Breaking Dawn - Part 2",
+                    "Snow White and the Huntsman",
+                    "The Adventures of Sharkboy and Lavagirl",
+                    "The Mortal Instruments: City of Bones",
+                    "Proof of Life",
+                    "Me You and Five Bucks",
+                    "Quo Vadis",
+                    "The Love Letter"
+                ],
+                "timestamp": "2026-02-26T11:56:31.963912"
+            },
+            {
+                "searched_movie": "Spirited Away",
+                "recommendations": [
+                    "Howl's Moving Castle",
+                    "Shrek 2",
+                    "Spy Kids",
+                    "Arthur and the Invisibles",
+                    "Ice Age",
+                    "Seventh Son",
+                    "Thunder and the House of Magic",
+                    "Return to Never Land",
+                    "Mary Poppins",
+                    "Oz: The Great and Powerful"
+                ],
+                "timestamp": "2026-02-26T12:08:38.687642"
+            },
+            {
+                "searched_movie": "Spirited Away",
+                "recommendations": [
+                    "Howl's Moving Castle",
+                    "Shrek 2",
+                    "Spy Kids",
+                    "Arthur and the Invisibles",
+                    "Ice Age",
+                    "Seventh Son",
+                    "Thunder and the House of Magic",
+                    "Return to Never Land",
+                    "Mary Poppins",
+                    "Oz: The Great and Powerful"
+                ],
+                "timestamp": "2026-02-26T12:08:38.698464"
+            },
+            {
+                "searched_movie": "Guardians of the Galaxy",
+                "recommendations": [
+                    "Avatar",
+                    "Star Trek Into Darkness",
+                    "Star Trek Beyond",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Chronicles of Riddick",
+                    "The Helix... Loaded",
+                    "Captain America: The Winter Soldier",
+                    "X-Men: First Class",
+                    "Star Trek"
+                ],
+                "timestamp": "2026-02-26T12:10:26.970164"
+            },
+            {
+                "searched_movie": "Guardians of the Galaxy",
+                "recommendations": [
+                    "Avatar",
+                    "Star Trek Into Darkness",
+                    "Star Trek Beyond",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "The Chronicles of Riddick",
+                    "The Helix... Loaded",
+                    "Captain America: The Winter Soldier",
+                    "X-Men: First Class",
+                    "Star Trek"
+                ],
+                "timestamp": "2026-02-26T12:10:26.985262"
+            },
+            {
+                "searched_movie": "Avengers: Age of Ultron",
+                "recommendations": [
+                    "The Avengers",
+                    "Iron Man 2",
+                    "Captain America: Civil War",
+                    "Captain America: The Winter Soldier",
+                    "Thor: The Dark World",
+                    "Ant-Man",
+                    "X-Men",
+                    "X2",
+                    "X-Men: The Last Stand",
+                    "The Incredible Hulk"
+                ],
+                "timestamp": "2026-02-26T12:10:37.155083"
+            },
+            {
+                "searched_movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "recommendations": [
+                    "Pirates of the Caribbean: At World's End",
+                    "Pirates of the Caribbean: Dead Man's Chest",
+                    "Pirates of the Caribbean: On Stranger Tides",
+                    "The Lone Ranger",
+                    "Rango",
+                    "The Lord of the Rings: The Fellowship of the Ring",
+                    "The Lord of the Rings: The Return of the King",
+                    "The Lord of the Rings: The Two Towers",
+                    "Mystery Men",
+                    "The Warrior's Way"
+                ],
+                "timestamp": "2026-02-26T12:38:37.345747"
+            },
+            {
+                "searched_movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "recommendations": [
+                    "Pirates of the Caribbean: At World's End",
+                    "Pirates of the Caribbean: Dead Man's Chest",
+                    "Pirates of the Caribbean: On Stranger Tides",
+                    "The Lone Ranger",
+                    "Rango",
+                    "The Lord of the Rings: The Fellowship of the Ring",
+                    "The Lord of the Rings: The Return of the King",
+                    "The Lord of the Rings: The Two Towers",
+                    "Mystery Men",
+                    "The Warrior's Way"
+                ],
+                "timestamp": "2026-02-26T12:38:37.367851"
+            },
+            {
+                "searched_movie": "Iron Man",
+                "recommendations": [
+                    "Iron Man 2",
+                    "Iron Man 3",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "Captain America: Civil War",
+                    "Captain America: The Winter Soldier",
+                    "Ant-Man",
+                    "X-Men",
+                    "X2",
+                    "The Helix... Loaded"
+                ],
+                "timestamp": "2026-02-26T12:39:07.449373"
+            },
+            {
+                "searched_movie": "Iron Man",
+                "recommendations": [
+                    "Iron Man 2",
+                    "Iron Man 3",
+                    "Avengers: Age of Ultron",
+                    "The Avengers",
+                    "Captain America: Civil War",
+                    "Captain America: The Winter Soldier",
+                    "Ant-Man",
+                    "X-Men",
+                    "X2",
+                    "The Helix... Loaded"
+                ],
+                "timestamp": "2026-02-26T12:39:07.469276"
+            },
+            {
+                "searched_movie": "The Dark Knight Rises",
+                "recommendations": [
+                    "Batman Begins",
+                    "The Dark Knight",
+                    "Amidst the Devil's Wings",
+                    "The Killer Inside Me",
+                    "The Prestige",
+                    "Batman Returns",
+                    "Batman",
+                    "Batman & Robin",
+                    "Kick-Ass",
+                    "RockNRolla"
+                ],
+                "timestamp": "2026-02-26T13:49:25.086039"
+            },
+            {
+                "searched_movie": "The Dark Knight Rises",
+                "recommendations": [
+                    "Batman Begins",
+                    "The Dark Knight",
+                    "Amidst the Devil's Wings",
+                    "The Killer Inside Me",
+                    "The Prestige",
+                    "Batman Returns",
+                    "Batman",
+                    "Batman & Robin",
+                    "Kick-Ass",
+                    "RockNRolla"
+                ],
+                "timestamp": "2026-02-26T13:49:25.098836"
+            }
+        ]
+    }
+}

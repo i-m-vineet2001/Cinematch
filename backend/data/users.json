@@ -1,0 +1,17 @@
+
+
+{
+
+  "_example_user": {
+    "password": "hashed_password_here",
+    "created_at": "2024-01-01T00:00:00",
+    "favourites": ["Avatar", "Iron Man"],
+    "recommendation_history": [
+      {
+        "searched_movie": "Avatar",
+        "recommendations": ["Guardians of the Galaxy", "Aliens"],
+        "timestamp": "2024-01-01T12:00:00"
+      }
+    ]
+  }
+}
