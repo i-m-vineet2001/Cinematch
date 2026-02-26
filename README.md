@@ -30,7 +30,9 @@ _The user's personalized profile page._
 ### Genere Page
 ![Genere Page Screenshot](./sreenshots/genere.png)
 _A view of the Genere page with all movie ._
----
+
+
+---Features
 
 
 *   **User Authentication:** Secure signup and login using JWT.
